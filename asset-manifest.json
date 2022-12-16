@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mpc-ball-control/static/css/main.243fea3f.css",
+    "main.js": "/mpc-ball-control/static/js/main.a235dbd3.js",
+    "static/js/787.ab8933d6.chunk.js": "/mpc-ball-control/static/js/787.ab8933d6.chunk.js",
+    "static/media/demo.mp4": "/mpc-ball-control/static/media/demo.eabe1dbabe63a754c499.mp4",
+    "static/media/tracking_sim.gif": "/mpc-ball-control/static/media/tracking_sim.f269041d9817c045ac41.gif",
+    "static/media/cv_demo.mp4": "/mpc-ball-control/static/media/cv_demo.e7a06731b1e8129146c1.mp4",
+    "static/media/cv_flow.png": "/mpc-ball-control/static/media/cv_flow.f7d7d532bd0b43d9a88c.png",
+    "static/media/all_it.png": "/mpc-ball-control/static/media/all_it.996f9b2ef91aee0a16e8.png",
+    "static/media/first_it.png": "/mpc-ball-control/static/media/first_it.f09c1f851a74b838a88d.png",
+    "static/media/last_it_pic.png": "/mpc-ball-control/static/media/last_it_pic.5068f8b278a28e3b68c8.png",
+    "static/media/sec_it.png": "/mpc-ball-control/static/media/sec_it.f251234b476584605392.png",
+    "static/media/last_it.png": "/mpc-ball-control/static/media/last_it.55f6e0414674fe0717df.png",
+    "static/media/architecture.png": "/mpc-ball-control/static/media/architecture.37f4c37419b9a2fea03f.png",
+    "static/media/equation.png": "/mpc-ball-control/static/media/equation.533244a5c9d404fb4157.png",
+    "static/media/real_test_visu.mp4": "/mpc-ball-control/static/media/real_test_visu.47a51631c12af7cccc35.mp4",
+    "index.html": "/mpc-ball-control/index.html",
+    "main.243fea3f.css.map": "/mpc-ball-control/static/css/main.243fea3f.css.map",
+    "main.a235dbd3.js.map": "/mpc-ball-control/static/js/main.a235dbd3.js.map",
+    "787.ab8933d6.chunk.js.map": "/mpc-ball-control/static/js/787.ab8933d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243fea3f.css",
+    "static/js/main.a235dbd3.js"
+  ]
+}
